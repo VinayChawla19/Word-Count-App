@@ -1,0 +1,40 @@
+body {
+background-image: url("img1.jpg");	
+}
+
+input {
+ margin-top: 90px;
+ margin-left:220px;
+ width: 350px;
+ height: 40px;    
+ display: block;
+ padding-left:355px;
+ border: 2px solid greenyellow;
+ border-radius: 15px;
+}
+
+#output {
+ margin-top: 40px;
+ width: 100px;
+ background: lightgreen;  
+ margin-left:400px;
+
+}
+#btn  {
+	
+	width:360px;
+	height: 80px;
+	color: red;
+	background-color:blue;
+	border-radius:15px;
+	margin-top:100px;
+	margin-left:365px;
+	
+}
+
+h1 {
+	text-align: center;
+	color:#8B008B;
+	margin-top:50px;
+	
+}
